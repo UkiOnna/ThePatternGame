@@ -1,0 +1,7 @@
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\bin\Debug\InventoryGood.exe.config
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\bin\Debug\InventoryGood.exe
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\bin\Debug\InventoryGood.pdb
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\obj\Debug\InventoryGood.csprojAssemblyReference.cache
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\obj\Debug\InventoryGood.csproj.CoreCompileInputs.cache
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\obj\Debug\InventoryGood.exe
+C:\Users\СикировТ\source\repos\InventoryGood\InventoryGood\obj\Debug\InventoryGood.pdb
